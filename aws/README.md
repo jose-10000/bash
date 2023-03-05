@@ -4,7 +4,7 @@ After download the file, make it executable
 
 $ chmod +x awsuser-ask-region.sh
 
-Then execute like this
+Then execute it
 
 $ source awsuser-ask-region.sh
 
